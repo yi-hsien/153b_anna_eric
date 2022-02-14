@@ -1196,7 +1196,7 @@ h6.progress-value {
 }
 
 #banner-services {
-  background: url('../images/temp/stats-bg.jpg') center top;
+  background: url('../images/website/cat_ship.jpg') center top;
   position: relative;
   border-bottom: 1px solid transparent;
 }
@@ -1770,14 +1770,13 @@ ul.details-list li:last-child {
 }
 
 .landing-hero {
-  background: url('../images/hero-bg/landing.jpg');
+  background: url('../images/website/cat_ship.png');
   background-size: cover;
 }
 
 /*--------------------
   Features Section
 ----------------------*/
-
 #features-section {
   padding: 120px 0!important;
   padding-bottom: 100px!important;
@@ -1785,6 +1784,14 @@ ul.details-list li:last-child {
 
 #features-section .title-section {
   padding-bottom: 80px;
+}
+
+.features-imag img{
+  /* max-height: 100%;
+  width: auto;
+  padding-top: 100px; */
+  /* top: 0;
+  bottom: 0; */
 }
 
 .features-image {
@@ -1860,7 +1867,7 @@ ul.features-list li {
 ----------------------*/
 
 #video-section {
-  background: url('../images/temp/tweet-bg.jpg') center top;
+  background: url('../images/website/cat_ship2.png') center top;
   position: relative;
   padding: 100px 0;
 }
