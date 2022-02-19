@@ -93,6 +93,10 @@ img {
   max-width: 100%;
 }
 
+video {
+  max-width: 100%;
+}
+
 .dark-bg {
   background: #34353A;
 }
